@@ -1,6 +1,8 @@
 # 7-Segment
 Arduino library to print numbers on a 7 segment display
 
+Required: Arduino, 2-digit 7-segment display, SIPO shift register
+
 Example:
 ```c++
 #include <_7SEG.h>
